@@ -1,0 +1,8 @@
+.vscode/
+node_modules/
+*.csv
+*.sqlite3
+frontend/.vs/
+frontend/Test/bin
+frontend/Test/obj
+frontend/Test/Properties
